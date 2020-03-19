@@ -1,0 +1,18 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.e-commerce</groupId>
+  <artifactId>E-commerece-mangement</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>pom</packaging>
+  <name>E-commerece-mangement</name>
+  <description>Project for E-Commerce Managment</description>
+  <modules>
+  	<module>E-Commerce-App</module>
+  	<module>Aop-Module</module>
+  	<module>exception-handling-module</module>
+  	<module>domain</module>
+  	<module>repository</module>
+  	<module>services</module>
+  	<module>web</module>
+  </modules>
+</project>
