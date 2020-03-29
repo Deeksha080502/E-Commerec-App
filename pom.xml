@@ -3,7 +3,7 @@
   <groupId>com.e-commerce</groupId>
   <artifactId>E-commerece-mangement</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <packaging>war</packaging>
+  <packaging>pom</packaging>
   <name>E-commerece-mangement</name>
   <description>Project for E-Commerce Managment</description>
   <modules>
